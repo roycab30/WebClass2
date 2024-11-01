@@ -1,6 +1,6 @@
 var express = require('express');
 var app = express();
-var session = require('expression-session');
+var session = require('express-session');
 var conn = require('./dbConfig');
 
 
